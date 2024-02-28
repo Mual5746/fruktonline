@@ -1,0 +1,60 @@
+body {
+    background-color : #87CEEB; 
+    margin: auto 0;
+}
+ section {
+    margin:15px;
+ }
+.hero-section img {
+    width: 100%;
+ }
+
+
+ .about-section {
+    background-color: green;
+    margin: 0 auto;
+    height: 90vh;
+ }
+ .about-item {
+    margin: 20px;
+ }
+
+
+h1 {
+    color: green;
+}
+
+.nav {
+    background-color: #f0f0f0; 
+    height: 40px;
+}
+
+.nav a {
+    margin: 5px;
+    margin-top: 10px;
+}
+
+.main-nav {
+    padding: 10px;
+}
+
+.paragraf-box {
+    background-color: #f0f0f0;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 20px; 
+}
+
+.contact-section {
+ height: 100vh
+}
+
+.contact-box {
+    display: flex;
+    justify-content: center;
+    background-color: #f0f0f0;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 20px; 
+    width: 80%;
+}
